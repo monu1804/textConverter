@@ -12,7 +12,6 @@ remove spaces
 \
 capitalize sentences or eac word etc.
 
-You can visit the app here: https://prakrutithakur.github.io/textConverter/
 ## Available Scripts
 
 In the project directory, you can run:
